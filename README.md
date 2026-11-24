@@ -4,7 +4,7 @@
 
 | Skill | 用途 |
 | --- | --- |
-| [comment-doc-cleanup](skills/comment-doc-cleanup/SKILL.md) | 清理失实、过时或冗余的代码注释和文档，并验证代码行为未变。 |
+| [cleanup](skills/cleanup/SKILL.md) | 清理死代码、临时垃圾文件，以及失实、过时或冗余的注释和文档。默认先出报告，确认后再删，并验证行为未变。 |
 
 ## 目录约定
 
